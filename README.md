@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ismail-Opatola/Ismail-Opatola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there 👋, 
+My name is Ismail Opatola, a Frontend Developer with expert knowledge on modern tech stack, 
+`Angular`, `React`, `Gatsby`, `Node`, `Express`, `MongoDB`, `Firebase`, `Jest`,
+`REST`, `gRPC`, and of course `HTML5`, `CSS`, `SCSS`, `Material UI` & `JavaScript`.
+
+Have a look at some of my [hobbies](https://github.com/Ismail-Opatola/Ismail-Opatola/) and real work [glooneevents](https://glooneevents.netlify.app/)
+
+## 🎓 Study
+I'm a self-thought JavaScript developer and currently studying _Advanced Diploma in Software Engineering_ at [APTECH](http://www.aptech-ng.com). 
+🌱 I’m currently learning C++ and Microservices.
+
+## Experience
+I also have 1 year experience working as a Digital Marketer for [BIZCOMTEC SOLUTIONS](https://www.linkedin.com/company/bizcomtec-solutions/).
+
+I'm open to full-time remote Frontend Developer Services. In the mean-time, 🔭 I’m currently working on [swapseller](https://github.com/swapseller) - an online marketplace for buying, selling and swapping personal items.
+
+
+## 🗺️ Location
+I live in Lagos, Nigeria.
+
+## 📫 How to reach me:
+* Email: _opatolamails@gmail.com_
+* Whatsapp: _+2348117464199_
+* Twitter: [_@opatolaismail_](https://twitter.com/opatolaismail)
