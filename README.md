@@ -21,7 +21,7 @@ My name is Ismail Opatola, a Frontend Developer with expert knowledge on modern 
 Have a look at some of my [hobbies](https://github.com/Ismail-Opatola/Ismail-Opatola/) and real work [glooneevents](https://glooneevents.netlify.app/)
 
 ## 🎓 Study
-I'm a self-thought JavaScript developer and currently studying _Advanced Diploma in Software Engineering_ at [APTECH](http://www.aptech-ng.com). 
+I'm a self-taught JavaScript developer and currently studying _Advanced Diploma in Software Engineering_ at [APTECH](http://www.aptech-ng.com). 
 🌱 I’m currently learning C++ and Microservices.
 
 ## Experience
