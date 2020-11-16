@@ -18,7 +18,7 @@ My name is Ismail Opatola, a Frontend Developer with expert knowledge on modern 
 `Angular`, `React`, `Gatsby`, `Node`, `Express`, `MongoDB`, `Firebase`, `Jest`,
 `REST`, `gRPC`, and of course `HTML5`, `CSS`, `SCSS`, `Material UI` & `JavaScript`.
 
-Have a look at some of my [hobbies](https://github.com/Ismail-Opatola/Ismail-Opatola/) and real work [glooneevents](https://glooneevents.netlify.app/)
+Have a look at some of my [hobbies](https://ismailopatola.netlify.app/) and real work [glooneevents](https://glooneevents.netlify.app/)
 
 ## 🎓 Study
 I'm a self-taught JavaScript developer and currently studying _Advanced Diploma in Software Engineering_ at [APTECH](http://www.aptech-ng.com). 
