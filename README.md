@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # Hi there 👋, 
 My name is Ismail Opatola, a Frontend Developer with expert knowledge on modern tech stack, 
 `Angular`, `React`, `Gatsby`, `Node`, `Express`, `MongoDB`, `Firebase`, `Jest`,
-`REST`, `gRPC`, and of course `HTML5`, `CSS`, `SCSS`, `Material UI` & `JavaScript`.
+`REST`, `gRPC`, and of course `HTML5`, `CSS`, `SCSS`, `Material UI`, `JavaScript` & `Typescript`.
 
-Have a look at some of my [hobbies](https://ismailopatola.netlify.app/) and real work [glooneevents](https://glooneevents.netlify.app/)
+Have a look at some of my [hobbies](https://ismailopatola.netlify.app/) and real work [glooneevents]( &)
 
 ## 🎓 Study
 I'm a self-taught JavaScript developer and currently studying _Advanced Diploma in Software Engineering_ at [APTECH](http://www.aptech-ng.com). 
