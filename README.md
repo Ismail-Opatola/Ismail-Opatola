@@ -39,7 +39,7 @@ I'm a self-taught JavaScript developer and currently studying _Advanced Diploma 
 🌱 I’m currently learning C++ and Microservices.
 
 ## Experience
-I also have 1 year experience working as a Digital Marketer for [BIZCOMTEC SOLUTIONS](https://www.linkedin.com/company/bizcomtec-solutions/).
+I also have 1 year work experience as a Digital Marketer for [BIZCOMTEC SOLUTIONS](https://www.linkedin.com/company/bizcomtec-solutions/).
 
 I'm open to full-time remote Frontend Developer Services. In the mean-time, 🔭 I’m currently working on [swapseller](https://github.com/swapseller) - an online marketplace for buying, selling and swapping personal items.
 
