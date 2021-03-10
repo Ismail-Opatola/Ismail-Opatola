@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Have a look at some of my work for [mindandmobilitycare](https://mindandmobilitycare.com), [glooneevents](https://glooneevents.netlify.app/).
+- 
 -->
 
 # Hi there 👋, 
@@ -19,7 +19,7 @@ My name is Ismail Opatola, a Frontend Developer with expert knowledge on modern 
 `Angular`, `React`, `Gatsby`, `Node`, `Express`, `MongoDB`, `Firebase`, `Jest`,
 `REST`, `gRPC`, and of course `HTML5`, `CSS`, `SCSS`, `Material UI`, `Bootstrap`, `JavaScript` & `TypeScript`.
 
-Have a look at some of my work for <a href="https://mindandmobilitycare.com" target="_blank">mindandmobilitycare</a>, <a href="https://glooneevents.netlify.app/" target="_blank">glooneevents</a>.
+Have a look at some of my work for [mindandmobilitycare](https://mindandmobilitycare.com), [glooneevents](https://glooneevents.netlify.app/).
 
 <div style="border: 1px solid #000;">
   <img src="" alt="" max-width="450" height="auto" width="100%"/>
