@@ -22,7 +22,7 @@ My name is Ismail Opatola, a Frontend Developer with expert knowledge on modern 
 Have a look at some of my work for [mindandmobilitycare](https://mindandmobilitycare.com), [glooneevents](https://glooneevents.netlify.app/).
 
 <div style="border: 1px solid #000;">
-  <img src="" alt="" max-width="450" height="auto" width="100%"/>
+  <img src="https://drive.google.com/file/d/1o4YI7AXdF44OjEwGfOyDZ1kdien-pxJK/view?usp=sharing" alt="" max-width="450" height="auto" width="100%"/>
 </div>
 
 ## 🎓 Study
