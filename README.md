@@ -26,10 +26,11 @@ Have a look at some of my work for [mindandmobilitycare](https://mindandmobility
    <img src="https://drive.google.com/uc?export=view&id=1o4YI7AXdF44OjEwGfOyDZ1kdien-pxJK" alt="" max-width="450px" height="auto" /> </div> -->
 ## Mind and Mobility Care Agency
 
-| | |
+| | | |
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1X3aDn0WQP60HNXDopnc5O7962VAwh-Tr" style="border: 1px solid #000;">  client |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=10p-hzOgl8BO68UZ0-ix19h3_Gh1NKU71" style="border: 1px solid #000;"> custom cms - dashboard |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1I2SzNL12KGoGMLBJE-peU7zoPx0twnPL" style="border: 1px solid #000;">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=178qJ1n0OSFwwLUjap6Fjwc0i1QeHqtbE" style="border: 1px solid #000;">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1GOdlWNIHFjBibbUNESI4Mq_JaPmWOrjF" style="border: 1px solid #000;">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1X3aDn0WQP60HNXDopnc5O7962VAwh-Tr" style="border: 1px solid #000;">  client |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=10p-hzOgl8BO68UZ0-ix19h3_Gh1NKU71" style="border: 1px solid #000;"> custom cms - dashboard |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1I2SzNL12KGoGMLBJE-peU7zoPx0twnPL" style="border: 1px solid #000;">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=178qJ1n0OSFwwLUjap6Fjwc0i1QeHqtbE" style="border: 1px solid #000;">  |  
+| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1GOdlWNIHFjBibbUNESI4Mq_JaPmWOrjF" style="border: 1px solid #000;">|
 
 ## 🎓 Study
 I'm a self-taught JavaScript developer and currently studying _Advanced Diploma in Software Engineering_ at [APTECH](http://www.aptech-ng.com). 
