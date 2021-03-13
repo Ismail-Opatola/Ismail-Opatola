@@ -28,7 +28,7 @@ Have a look at some of my work for [mindandmobilitycare](https://mindandmobility
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1X3aDn0WQP60HNXDopnc5O7962VAwh-Tr" style="-webkit-box-shadow: 0 8px 6px -6px black; -moz-box-shadow: 0 8px 6px -6px black; box-shadow: 0 8px 6px -6px black;">  client |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=10p-hzOgl8BO68UZ0-ix19h3_Gh1NKU71" style="border: 1px solid #000;"> custom cms - dashboard |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1X3aDn0WQP60HNXDopnc5O7962VAwh-Tr" style="border:2px,solid,#fff;box-shadow:10px,10px,5px,#ccc;-moz-box-shadow:,10px,10px,5px,#ccc;-webkit-box-shadow:10px,10px,5px,#ccc;-khtml-box-shadow:10px,10px,5px,#ccc;">  client |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=10p-hzOgl8BO68UZ0-ix19h3_Gh1NKU71" style="border: 1px solid #000;"> custom cms - dashboard |
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1I2SzNL12KGoGMLBJE-peU7zoPx0twnPL" style="border: 1px solid #000;"> |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=178qJ1n0OSFwwLUjap6Fjwc0i1QeHqtbE" style="border: 1px solid #000;">  |  
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1GOdlWNIHFjBibbUNESI4Mq_JaPmWOrjF" style="border: 1px solid #000;"> |
 
