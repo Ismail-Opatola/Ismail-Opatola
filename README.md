@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there 👋, 
 My name is Ismail Opatola, a Frontend Developer with expert knowledge on modern tech stack, 
 `Angular`, `React`, `Gatsby`, `Node`, `Express`, `MongoDB`, `Firebase`, `Jest`,
-`REST`, `gRPC`, and of course `HTML5`, `CSS`, `SCSS`, `Material UI`, `Bootstrap`, `JavaScript` & `TypeScript`.
+`REST`, `gRPC`, as well as `HTML5`, `CSS`, `SCSS`, `Material UI`, `Bootstrap`, `JavaScript` & `TypeScript`.
 
 Have a look at some of my work for [mindandmobilitycare](https://mindandmobilitycare.com), [glooneevents](https://glooneevents.netlify.app/).
 
