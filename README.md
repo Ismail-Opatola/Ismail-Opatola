@@ -15,21 +15,24 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋, 
-My name is Ismail Opatola, a Frontend Developer with expert knowledge on modern tech stack, 
-`Angular`, `React`, `Gatsby`, `Node`, `Express`, `MongoDB`, `Firebase`, `Jest`,
-`REST`, `gRPC`, as well as `HTML5`, `CSS`, `SCSS`, `Material UI`, `Bootstrap`, `JavaScript` & `TypeScript`.
+My name is Ismail Opatola, a web developer with expert knowledge on modern tech stack, 
+            `React`, <code>React Native</code>, <code>NodeJS</code>, <code>MongoDB</code>,
+            <code>Firebase</code>, <code>Jest</code>, <code>REST</code>, <code>gRPC</code>,
+            <code>graphQL</code> as well
+            as <code>HTML5</code>, <code>CSS</code>, <code>SCSS</code>,
+            <code>Material UI</code>, <code>Bootstrap</code>, <code>JavaScript</code> & <code>TypeScript</code>.
 
-Have a look at some of my work for [mindandmobilitycare](https://mindandmobilitycare.com), [glooneevents](https://glooneevents.netlify.app/).
+<!-- Have a look at some of my work for [mindandmobilitycare](https://mindandmobilitycare.com), [glooneevents](https://glooneevents.netlify.app/).
 
-## Mind and Mobility Care Agency
+## Mind and Mobility Care Agency -->
 
-| | |
+<!-- | | |
 |:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1X3aDn0WQP60HNXDopnc5O7962VAwh-Tr" style="border:2px,solid,#fff;box-shadow:10px,10px,5px,#ccc;-moz-box-shadow:,10px,10px,5px,#ccc;-webkit-box-shadow:10px,10px,5px,#ccc;-khtml-box-shadow:10px,10px,5px,#ccc;">  Client facing website |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=10p-hzOgl8BO68UZ0-ix19h3_Gh1NKU71" style="border: 1px solid #000;"> Custom CMS - Dashboard |
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1I2SzNL12KGoGMLBJE-peU7zoPx0twnPL" style="border: 1px solid #000;"> Custom CMS - Pages |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=178qJ1n0OSFwwLUjap6Fjwc0i1QeHqtbE" style="border: 1px solid #000;"> Custom CMS - Editor |  
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1GOdlWNIHFjBibbUNESI4Mq_JaPmWOrjF" style="border: 1px solid #000;"> Custom CMS - Media |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1GOdlWNIHFjBibbUNESI4Mq_JaPmWOrjF" style="border: 1px solid #000;"> Custom CMS - Media | -->
 
-## Gloone Events
+<!-- ## Gloone Events
 
 | | |
 |:-------------------------:|:-------------------------:|
@@ -42,13 +45,13 @@ I'm a self-taught JavaScript developer and currently studying _Advanced Diploma 
 ## Experience
 I also have 1 year work experience as a Digital Marketer for [BIZCOMTEC SOLUTIONS](https://www.linkedin.com/company/bizcomtec-solutions/).
 
-I'm open to full-time remote Frontend Developer Services. In the mean-time, 🔭 I’m currently working on [swapseller](https://github.com/swapseller) - an online marketplace for buying, selling and swapping personal items.
+I'm open to full-time remote Frontend Developer Services. In the mean-time, 🔭 I’m currently working on [swapseller](https://github.com/swapseller) - an online marketplace for buying, selling and swapping personal items. -->
 
 
-## 🗺️ Location
+<!-- ## 🗺️ Location
 I live in Lagos, Nigeria.
 
 ## 📫 How to reach me:
 * Email: _opatolamails@gmail.com_
 * Whatsapp: _+2348117464199_
-* Twitter: [_@opatolaismail_](https://twitter.com/opatolaismail)
+* Twitter: [_@opatolaismail_](https://twitter.com/opatolaismail) -->
