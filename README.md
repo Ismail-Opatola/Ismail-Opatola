@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 -->
 
 # Hi there 👋, 
-My name is Ismail Opatola, a web developer with expert knowledge on modern tech stack, 
-            `React`, <code>React Native</code>, <code>NodeJS</code>, <code>MongoDB</code>,
-            <code>Firebase</code>, <code>Jest</code>, <code>REST</code>, <code>gRPC</code>,
-            <code>graphQL</code> as well
-            as <code>HTML5</code>, <code>CSS</code>, <code>SCSS</code>,
-            <code>Material UI</code>, <code>Bootstrap</code>, <code>JavaScript</code> & <code>TypeScript</code>.
+
+I'm Ismail Opatola, a full stack JavaScript developer with expert knowledge on modern tech stacks such as, `React`, `React Native`, `NodeJS`, SQL and Non-SQL databases (I frequently use `MongoDB` and `Postgres` in my day to day), `Jest`,`REST`, `gRPC`, cloud computing tools such as `Docker` and `K8`.
+
+I'm a curiuos explorer. Live in Lagos, Nigeria. Quite transparent. Feel free to reach out.
 
 <!-- Have a look at some of my work for [mindandmobilitycare](https://mindandmobilitycare.com), [glooneevents](https://glooneevents.netlify.app/).
 
