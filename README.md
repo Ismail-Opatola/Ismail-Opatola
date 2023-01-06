@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Ismail Opatola, a full stack JavaScript developer with expert knowledge on modern tech stacks such as, `React`, `React Native`, `NodeJS`, SQL and Non-SQL databases (I frequently use `MongoDB` and `Postgres` in my day to day), `Jest`,`REST`, `gRPC`, cloud computing tools such as `Docker` and `K8`.
 
-I'm a curiuos explorer. Live in Lagos, Nigeria. Quite transparent. Feel free to reach out.
+Curious explorer. Living in Lagos, Nigeria. Quite transparent. Feel free to reach out.
 
 <!-- Have a look at some of my work for [mindandmobilitycare](https://mindandmobilitycare.com), [glooneevents](https://glooneevents.netlify.app/).
 
