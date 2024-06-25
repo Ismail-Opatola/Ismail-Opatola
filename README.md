@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, 
 
-I'm Ismail Opatola, a full stack JavaScript developer with expert knowledge on modern tech stacks such as, `React`, `React Native`, `NodeJS`, SQL and Non-SQL databases (I frequently use `MongoDB` and `Postgres` in my day to day), `Jest`,`REST`, `gRPC`, cloud computing tools such as `Docker` and `K8`.
+I'm Ismail Opatola, a full-stack JavaScript developer with expert knowledge of modern tech stacks such as, `React`, `React Native`, `NodeJS`, Golang, SQL, and Non-SQL databases (I frequently use `MongoDB` and `Postgres` in my day-to-day), along with `Jest`, `REST`, `gRPC`, cloud computing tools such as `Docker` and `K8`.
 
 Curious explorer. Living in Lagos, Nigeria. Quite transparent. Feel free to reach out.
 
